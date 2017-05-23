@@ -20,3 +20,4 @@ An open world head to head tank fight with simple terrain and advanced control s
 * 113 - Fixing 3rd Person Camera Rotation
 * 114 - User Interface (UI) in Unreal
 * 115 - Main Menu Screens
+* 116 - UI Scale Box, Buttons and Mouse
